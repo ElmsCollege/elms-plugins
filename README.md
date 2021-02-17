@@ -1,0 +1,1 @@
+This controls the customized plugins used on elms.edu. Each plugin will have its own directory to keep things organized. When checking these out on the site, use the subdirectory option in WPPusher.
