@@ -11,7 +11,7 @@ Author: Ryan Millner <millnerr@elms.edu>
 /**
  * Define the plugin version
  */
-define("Directory Plugin Functions", "1.0");
+define("Elms Directory Plugin", "1.0");
 
 /* register the personnel content type */
 function cptui_register_my_cpts_personnel() {

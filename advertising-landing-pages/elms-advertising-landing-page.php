@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Advertising Landing Pages
+Plugin Name: Elms Advertising Landing Pages
 Description: Controls the advertising landing page content type. This is a full-width (no sidebar), Gutenberg-editor enabled content type whose pages use the /lp/ URL prefix.
 Version: 1.0
 Author: Ryan Millner <millnerr@elms.edu>
@@ -10,7 +10,7 @@ Author: Ryan Millner <millnerr@elms.edu>
 /**
  * Define the plugin version
  */
-define("Advertising Landing Pages", "1.0");
+define("Elms Advertising Landing Pages", "1.0");
 
   //we only want the advertising landing page  subsite
   if ( $GLOBALS[ "blog_id" ] == 1 ) {
